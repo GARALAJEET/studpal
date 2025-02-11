@@ -108,5 +108,6 @@ CREATE TABLE college_timetable (
 - Implement REST APIs for external integration
 
 ## Author
-Developed by [Your Name]
+Developed by Jeet Garala
+
 
